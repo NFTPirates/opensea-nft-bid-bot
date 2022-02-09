@@ -43,4 +43,6 @@ Don’t take my word, watch the video to see the magic!
 5. Can I share my license with a friend?  Yes, you can. Every license can run on 2 different computers at the same time.
 6. Is this safe to use? 100%. Hundreds of users have been using it for multiple big projects that I can’t name right now but don’t worry, you’re in safe hands.
 
+Find our easy set-up guide at https://medium.com/@nftpirates_bots
+
 Got more questions? We would love to answer them. Join us on discord today
